@@ -1,5 +1,5 @@
 [
   { "name": "W4HX OWNER", "role": "OWNER", "password": "OWNER25" },
-  { "name": "USERTEST", "role": "NON-VIP", "password": "W4HX" },
+  { "name": "USERTEST", "role": "NON-VIP", "password": "W4HX1" },
   { "name": "USER BARU", "role": "NON-VIP", "password": "PASSWORD_BARU" }
 ]

@@ -2,4 +2,9 @@
   "name": "W4HX OWNER",
   "role": "OWNER",
   "password": "OWNER25"
+},
+{
+  "name": "USERTEST",
+  "role": "NON-VIP",
+  "password": "USER"
 }
